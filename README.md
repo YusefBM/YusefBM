@@ -1,9 +1,8 @@
 ### Hi there! I'm Yusef 👋
 
-I'm a Software Engineering student at [University of Murcia (UMU)](https://um.es).:smile:
+I'm a Computer Engineering student at [University of Murcia](https://www.um.es/en/web/informatica/).
 
 🌱 I’m currently learning Scala, MongoDB and API REST. 
-
 
 ### 📫 Contact info:
  
@@ -12,7 +11,6 @@ I'm a Software Engineering student at [University of Murcia (UMU)](https://um.es
 ##### :email: [yusefbm24@gmail.com](mailto:yusefbm24@gmail.com).
 
 ![Profile views](https://gpvc.arturio.dev/YusefBM) 
-
 ---
 
 [linkedin]: https://www.linkedin.com/in/yusef-benarroum-marin/
