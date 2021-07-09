@@ -1,12 +1,25 @@
-### Hi there! I'm Yusef 👋
+<h1 align='center'>
+ Hi there! 👋 I'm Yusef 👨‍💻
+</h1>
 
-I'm a Computer Engineering student at [University of Murcia](https://www.um.es/en/web/informatica/).
+<p align='center'>
+  A Computer Engineering student at [University of Murcia, Spain](https://www.um.es/en/web/informatica/).
+</p>
+ 
 
-🌱 I’m currently learning Scala, MongoDB and API REST. 
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/yusef-benarroum-marin/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:yusefbm24m@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 ### 📫 Contact info:
  
-##### :wo: [/yusef-benarroum-marin](https://www.linkedin.com/in/yusef-benarroum-marin/)
 
 ##### <p align="left"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  yusefbm24@gmail.com.</p> 
 
