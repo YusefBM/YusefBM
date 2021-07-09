@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
- <img align="center" src="https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg" alt="devicon" height="60" width="60" />
+ <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepng.es%2Fpng-93hy0r%2F&psig=AOvVaw0lduXWoL4mFX-xQd_boUMA&ust=1625961038041000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPCP34SX1_ECFQAAAAAdAAAAABAS" alt="devicon" height="60" width="60" />
  <img align="center" img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="devicon" height="60" width="60" />
  
 
