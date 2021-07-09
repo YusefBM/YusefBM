@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there! I'm Yusef 👋
 
-<!--
-**YusefBM/YusefBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at [University of Murcia (UMU)](https://um.es).:smile:
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Scala, MongoDB and API REST. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 Contact info:
+ 
+##### :link: [/enrique-kessler-martinez](https://www.linkedin.com/in/enrique-kessler-martinez/)
+
+##### :email: [yusefbm24@gmail.com](mailto:yusefbm24@gmail.com).
+
+![Profile views](https://gpvc.arturio.dev/YusefBM) 
+
+---
+
+[linkedin]: https://www.linkedin.com/in/yusef-benarroum-marin/
+[email]: mailto:yusefbm24m@gmail.com
