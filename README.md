@@ -1,5 +1,5 @@
 <h1 align='center'>
- Hi there! 👋 I'm Yusef 👨‍💻
+ Hi there! 👋  I'm Yusef 👨‍💻
 </h1>
 
 <p align='center'>
@@ -14,17 +14,7 @@
   </a>&nbsp;&nbsp;
   <a href="mailto:yusefbm24m@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;  
 </p>
 
-### 📫 Contact info:
- 
-
-##### <p align="left"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  yusefbm24@gmail.com.</p> 
-
 ![Profile views](https://gpvc.arturio.dev/YusefBM) 
----
-
-[linkedin]: https://www.linkedin.com/in/yusef-benarroum-marin/
-[email]: mailto:yusefbm24m@gmail.com
