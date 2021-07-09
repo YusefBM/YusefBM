@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandslogos.com%2Fj%2Fjava-logo-1%2F&psig=AOvVaw2IYHsGIoc-NgOBKRD0l7DZ&ust=1625960617316000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMDvzL-V1_ECFQAAAAAdAAAAABAJ" />
+ <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
  
 
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="devicon" height="50" width="50" />
