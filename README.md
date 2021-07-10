@@ -19,10 +19,8 @@
 
 <h4 align='center'>
  Technologies most used: <br/><br/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
- <img align="center" src="https://img3.freepng.es/dy/253bfb673fbddba658a4b62cdae0fcf9/L0KzQYm3VMA5N5ptj5H0aYP2gLBuTgRpbV5oReJ7b3f1cb70if5oNZ1mhtlAYXfoPbT2jgB2fJZ3Rdtsb372PbT2jgB2fF51itHwcnHwfbr1h702aZRmfNU7ZUG5dbeAWL4zQGE7UKsBNEG4QoS5VMQxP2k1UaY3cH7q/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2e16ef78.280689641523244078094.png" alt="devicon" height="60" width="60" />
  <img align="center" img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="devicon" height="60" width="60" />
  
 
