@@ -19,7 +19,7 @@
 
 <h3 align='center'>
  Technologies most used: <br/><br/>
-   <img align="center" img src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" alt="devicon" height="60" width="30" />
+   <img align="center" img src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" alt="devicon" height="60" width="35" />
    <img  align="center" src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="devicon" height="45" width="27" />
    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/760px-C_Programming_Language.svg.png" alt="devicon" height="45" width="45" />
    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" alt="devicon" height="45" width="45" />
