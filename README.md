@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align='center'>
-  A Computer Engineering student at <a href="https://www.um.es/en/web/informatica/">University of Murcia</a>
+  A Computer Engineering student at Computer Science Faculty in the <a href="https://www.um.es/en/web/informatica/">University of Murcia</a>
 </h3>
  
 
