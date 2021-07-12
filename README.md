@@ -28,6 +28,9 @@
    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="devicon" height="50" width="50" />
 </h3>
 
+<p align="justify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YusefBM&show_icons=true&count_private=true&theme=algolia" />
+</p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusefBM&layout=compact&theme=algolia" />
 </p>
