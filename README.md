@@ -27,5 +27,3 @@
    <img  align="center" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" alt="devicon" height="45" width="45" />
    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="devicon" height="50" width="50" />
 </h3>
-
-![Profile views](https://gpvc.arturio.dev/YusefBM) 
